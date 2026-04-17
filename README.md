@@ -1,6 +1,6 @@
 # Hey there, I'm [Ahmed Khaled]() 👋
 
-**Full-stack Web Developer · CS Student 💻**
+**MERN-Stack Web Developer · CS Student 💻**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedkhaled&style=for-the-badge" alt="Profile Views"/>
